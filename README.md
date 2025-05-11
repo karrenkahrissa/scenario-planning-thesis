@@ -1,2 +1,2 @@
-# scenario-planning-for-large-enterprises
+# scenario-planning-thesis
 Thesis project: Scenario Planning for Large Enterprises
